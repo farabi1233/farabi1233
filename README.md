@@ -6,7 +6,7 @@
 - 👨‍💻 I'm currently learning some Javascript Framework and Blockchain Decentralized Application(dapps)
 - 🕵 I love working with a technically strong team where I can collaborate to solve complex problems
 - 🚀 2020 Goals: Contribute more to advanced Laravel projects
-- 💬 Please feel free to contact me if you need any further information: <a href="mailto:hosnain.ahammad@gmail.com">hosnan.ahammad@gmail.com</a>
+- 💬 Please feel free to contact me if you need any further information: <a href="mailto:hosnain.ahammad@gmail.com">hosnain.ahammad@gmail.com</a>
 - 📌 Visit my portfolio website: [https://farabi1233.github.io][website]
 
 
